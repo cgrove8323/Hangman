@@ -1,0 +1,21 @@
+Holidays
+christmas
+christmas eve
+thanksgiving
+new year's eve
+new year's day
+halloween
+labor day
+4th of july
+easter
+st Patrick's day
+valentine's day
+flag day
+martin luther king, jr day
+hanukah
+kwanza
+day of the dead
+cinco de mayo
+groundhog day
+april fools day
+memorial day
